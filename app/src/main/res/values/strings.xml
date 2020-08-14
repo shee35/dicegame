@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice game</string>
+    <string name="your_score">your score:</string>
+    <string name="_0">0</string>
+    <string name="computer_s_score">computer\'s score:</string>
+    <string name="roll">roll</string>
+    <string name="hold">hold</string>
+    <string name="reset">reset</string>
+    <string name="done">done</string>
+    <string name="your_turn">Your Turn !</string>
+</resources>
